@@ -1,0 +1,3514 @@
+.frame-child35 {
+  background-color: var(--color-red-200);
+  width: 1440px;
+  max-width: 100%;
+  height: 56px;
+  display: none;
+  position: relative;
+}
+
+.icon-home4 {
+  z-index: 1;
+  width: 39px;
+  height: 32.2px;
+  position: relative;
+}
+
+.icon-home-wrapper1 {
+  padding: var(--padding-6xs) 0 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.cellphones4 {
+  font-size: inherit;
+  white-space: nowrap;
+  z-index: 1;
+  flex: 1;
+  height: 54px;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.frame-parent29 {
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: var(--gap-8xs);
+  flex-direction: row;
+  width: 281px;
+  display: flex;
+}
+
+.frame-child36, .frame-child37 {
+  border-radius: var(--br-mid);
+  background-color: var(--color-firebrick-100);
+  width: 145px;
+  height: 45px;
+  display: none;
+  position: relative;
+}
+
+.frame-child37 {
+  background-color: var(--color-red-200);
+  width: 130px;
+  height: 35px;
+}
+
+.danh-mc4 {
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 3;
+  min-width: 114px;
+  display: inline-block;
+  position: relative;
+}
+
+.rectangle-parent22 {
+  cursor: pointer;
+  padding: var(--padding-7xs) var(--padding-6xs) var(--padding-7xs) var(--padding-4xs);
+  background-color: var(--color-red-200);
+  border-radius: var(--br-mid);
+  white-space: nowrap;
+  z-index: 2;
+  border: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.rectangle-parent22:hover {
+  background-color: var(--color-red-100);
+}
+
+.frame-child38, .rectangle-parent21 {
+  border-radius: var(--br-mid);
+  background-color: var(--color-firebrick-100);
+}
+
+.rectangle-parent21 {
+  padding: var(--padding-8xs) var(--padding-6xs);
+  z-index: 1;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.frame-child38 {
+  width: 209px;
+  height: 45px;
+  display: none;
+  position: relative;
+}
+
+.bn-cn-g4 {
+  white-space: nowrap;
+  z-index: 2;
+  font-weight: 600;
+  position: relative;
+}
+
+.bn-cn-g-wrapper1 {
+  padding: var(--padding-10xs) 0 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.icon-magnifying-glass4 {
+  z-index: 2;
+  width: 30px;
+  height: 29px;
+  min-height: 29px;
+  position: relative;
+}
+
+.frame-parent28, .frame-parent30, .rectangle-parent23 {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.rectangle-parent23 {
+  border-radius: var(--br-mid);
+  background-color: var(--color-firebrick-100);
+  padding: var(--padding-5xs) var(--padding-3xs) var(--padding-5xs) var(--padding-lg);
+  gap: var(--gap-lgi);
+  z-index: 1;
+  flex: 1;
+}
+
+.frame-parent28, .frame-parent30 {
+  max-width: 100%;
+}
+
+.frame-parent30 {
+  gap: var(--gap-10xl);
+  font-size: var(--font-size-xl);
+  flex: 1;
+}
+
+.frame-parent28 {
+  gap: var(--gap-104xl);
+  width: 787px;
+}
+
+.frame-child39 {
+  background-color: var(--color-firebrick-100);
+  z-index: 1;
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.icon-phone4 {
+  z-index: 2;
+  width: 17.7px;
+  height: 38.8px;
+  position: absolute;
+  top: 4.2px;
+  left: 15px;
+}
+
+.ellipse-parent7 {
+  width: 47px;
+  height: 47px;
+  position: relative;
+}
+
+.frame-child40 {
+  background-color: var(--color-firebrick-100);
+  z-index: 1;
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.icon-person5 {
+  z-index: 2;
+  width: 22px;
+  height: 39px;
+  position: absolute;
+  top: 3.2px;
+  left: 12px;
+}
+
+.ellipse-parent8 {
+  width: 47px;
+  height: 47px;
+  position: relative;
+}
+
+.frame-child41 {
+  background-color: var(--color-firebrick-100);
+  z-index: 1;
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.icon-cart4 {
+  z-index: 2;
+  width: 26px;
+  height: 38.8px;
+  position: absolute;
+  top: 5.2px;
+  left: 9px;
+}
+
+.ellipse-parent9 {
+  width: 47px;
+  height: 47px;
+  position: relative;
+}
+
+.frame-wrapper20 {
+  padding: var(--padding-12xs) 0 0;
+  flex-direction: column;
+}
+
+.frame-parent31, .frame-wrapper19, .frame-wrapper20, .group-header {
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.frame-parent31 {
+  gap: var(--gap-sm);
+  flex-direction: row;
+}
+
+.frame-wrapper19, .group-header {
+  padding: var(--padding-12xs) 0 0;
+  flex-direction: column;
+}
+
+.group-header {
+  background-color: var(--color-red-200);
+  padding: var(--padding-8xs) var(--padding-26xl) 0 var(--padding-72xl);
+  box-sizing: border-box;
+  z-index: 99;
+  justify-content: space-between;
+  align-self: stretch;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+  flex-direction: row;
+  max-width: 100%;
+  position: sticky;
+  top: 0;
+}
+
+.trang-ch3 {
+  cursor: pointer;
+  flex: 1;
+}
+
+.div3, .sn-phm3, .trang-ch3 {
+  font-weight: 600;
+  position: relative;
+}
+
+.div3 {
+  width: 22px;
+  display: inline-block;
+}
+
+.sn-phm3 {
+  flex: 1;
+}
+
+.frame-wrapper21, .trang-ch-parent {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.trang-ch-parent {
+  gap: var(--gap-4xs);
+  flex: 1;
+}
+
+.frame-wrapper21 {
+  padding: 0 var(--padding-3xs) var(--padding-xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+  width: 370px;
+}
+
+.in-thoi-ni {
+  font-size: inherit;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 600;
+  position: relative;
+}
+
+.in-thoi-ni-bt-nht-wrapper {
+  padding: 0 var(--padding-21xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-29xl);
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.apple {
+  width: 68px;
+  min-width: 68px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.asus, .nokia, .oppo, .realme, .samsung, .tecno, .vivo, .xiaomi {
+  width: 109px;
+  min-width: 109px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.asus, .nokia, .oppo, .realme, .tecno, .vivo, .xiaomi {
+  width: 80px;
+  min-width: 80px;
+}
+
+.asus, .nokia, .oppo, .realme, .tecno, .vivo {
+  width: 69px;
+  min-width: 69px;
+}
+
+.asus, .nokia, .realme, .tecno, .vivo {
+  width: 86px;
+  min-width: 86px;
+}
+
+.asus, .nokia, .tecno, .vivo {
+  width: 52px;
+  min-width: 52px;
+}
+
+.asus, .nokia, .tecno {
+  width: 59px;
+  min-width: 59px;
+}
+
+.nokia, .tecno {
+  width: 72px;
+  min-width: 72px;
+}
+
+.nokia {
+  width: 67px;
+  min-width: 67px;
+}
+
+.infinix {
+  width: 71px;
+  min-width: 71px;
+}
+
+.infinix, .oneplus, .xem-tt-c {
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.oneplus {
+  width: 97px;
+  min-width: 97px;
+}
+
+.xem-tt-c {
+  min-width: 124px;
+}
+
+.apple-parent, .frame-wrapper22 {
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.apple-parent {
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  width: 1317px;
+}
+
+.frame-wrapper22 {
+  padding: 0 var(--padding-23xl) var(--padding-21xl);
+  box-sizing: border-box;
+  text-align: center;
+  justify-content: flex-end;
+  align-self: stretch;
+}
+
+.t-i-xu-ng-67-icon, .tivi-logo-cate-icon {
+  object-fit: cover;
+  align-self: stretch;
+  width: 191px;
+  min-height: 50px;
+  max-height: 100%;
+  position: relative;
+}
+
+.tivi-logo-cate-icon {
+  width: 240px;
+}
+
+.frame-wrapper25, .t-i-xu-ng-67-parent {
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.t-i-xu-ng-67-parent {
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  flex: 1;
+}
+
+.frame-wrapper25 {
+  padding: 0 var(--padding-5xs) 0 var(--padding-8xl);
+  box-sizing: border-box;
+  justify-content: flex-start;
+  align-self: stretch;
+}
+
+.frame-60-icon, .frame-61-icon {
+  object-fit: cover;
+  align-self: stretch;
+  width: 245px;
+  min-height: 50px;
+  max-height: 100%;
+  position: relative;
+}
+
+.frame-60-parent {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 63px;
+  display: flex;
+}
+
+.frame-65-icon, .frame-67-icon {
+  object-fit: cover;
+  align-self: stretch;
+  width: 245px;
+  min-height: 50px;
+  max-height: 100%;
+  position: relative;
+}
+
+.frame-65-parent {
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  gap: var(--gap-50xl);
+  flex-direction: row;
+  display: flex;
+}
+
+.infinixlogo-icon, .logo-itel-11-icon {
+  object-fit: cover;
+  align-self: stretch;
+  width: 245px;
+  min-height: 50px;
+  max-height: 100%;
+  position: relative;
+}
+
+.frame-parent36, .frame-wrapper24, .infinixlogo-parent {
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.infinixlogo-parent {
+  align-self: stretch;
+  gap: var(--gap-50xl);
+  flex-direction: row;
+}
+
+.frame-parent36, .frame-wrapper24 {
+  max-width: 100%;
+}
+
+.frame-parent36 {
+  gap: var(--gap-36xl);
+  flex-direction: column;
+  flex: 1;
+}
+
+.frame-wrapper24 {
+  padding: 0 0 0 var(--padding-10xl);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-self: stretch;
+}
+
+.chn-theo-nhu {
+  font-size: inherit;
+  max-width: 100%;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.frame-parent35 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 37px;
+  width: 588px;
+  min-width: 588px;
+  max-width: 100%;
+  display: flex;
+}
+
+.frame-62-icon, .frame-69-1-icon, .masstel-mobile-logo022-icon, .zte-logo-11-icon {
+  object-fit: cover;
+  flex: 1;
+  align-self: stretch;
+  max-width: 100%;
+  max-height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.zte-logo-11-parent {
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: var(--gap-36xl);
+  flex-direction: column;
+  width: 245px;
+  min-width: 245px;
+  height: 365px;
+  display: flex;
+}
+
+.frame-parent34 {
+  justify-content: space-between;
+  align-self: stretch;
+  align-items: flex-start;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-21xl);
+  flex-direction: row;
+  max-width: 100%;
+  display: flex;
+}
+
+.chi-game {
+  min-width: 125px;
+  display: inline-block;
+}
+
+.chi-game, .chp-nh-p, .in-thoi-gp, .livestream {
+  font-weight: 600;
+  position: relative;
+}
+
+.livestream {
+  min-width: 129px;
+  display: inline-block;
+}
+
+.chi-game-parent, .frame-wrapper26 {
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.chi-game-parent {
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  width: 862px;
+}
+
+.frame-wrapper26 {
+  justify-content: flex-end;
+  align-self: stretch;
+}
+
+.pin-tru {
+  min-width: 90px;
+  display: inline-block;
+}
+
+.cu-hnh-cao, .pin-tru {
+  font-weight: 600;
+  position: relative;
+}
+
+.output-processor, .tree-connector {
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.tree-connector {
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  width: 360px;
+}
+
+.output-processor {
+  justify-content: flex-end;
+  align-self: stretch;
+}
+
+.chn-theo-tiu {
+  font-size: var(--font-size-21xl);
+  max-width: 100%;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.input-filter {
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: var(--gap-lg);
+  flex-direction: column;
+  width: 441px;
+  max-width: 100%;
+  display: flex;
+}
+
+.b-lc {
+  min-width: 72px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.b-lc-wrapper {
+  padding: 0 var(--padding-5xs) 0 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.sn-hng {
+  min-width: 106px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.sn-hng-wrapper {
+  padding: 0 var(--padding-base) 0 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.gi {
+  min-width: 39px;
+  display: inline-block;
+}
+
+.gi, .nhu-cu-s {
+  font-weight: 600;
+  position: relative;
+}
+
+.frame-parent37 {
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  flex-direction: row;
+  width: 852px;
+  max-width: 100%;
+}
+
+.frame-parent33, .frame-parent37, .frame-wrapper27 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.frame-wrapper27 {
+  padding: 0 var(--padding-3xs);
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-self: stretch;
+  max-width: 100%;
+}
+
+.frame-parent33 {
+  justify-content: flex-start;
+  gap: var(--gap-10xl);
+  flex-direction: column;
+  flex: 1;
+  max-width: calc(100% - 331px);
+}
+
+.frame-59-icon, .frame-63-icon, .iinoi-mobile-logo022-icon {
+  object-fit: cover;
+  flex-shrink: 0;
+  align-self: stretch;
+  max-width: 100%;
+  height: 50px;
+  position: relative;
+  overflow: hidden;
+}
+
+.frame-37-1-1-icon {
+  object-fit: cover;
+  width: 240px;
+  height: 50px;
+  position: relative;
+}
+
+.frame-37-1-1-wrapper {
+  padding: 0 var(--padding-12xs) 0 var(--padding-9xs);
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-start;
+  display: flex;
+}
+
+.iinoi-mobile-logo022-parent {
+  flex-direction: column;
+  flex: 1;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 53px;
+  display: flex;
+}
+
+.dung-lng-ln {
+  font-weight: 600;
+  position: relative;
+}
+
+.dung-lng-ln-wrapper {
+  padding: 0 var(--padding-6xs) 98px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.loi-in-thoi {
+  font-weight: 600;
+  position: relative;
+}
+
+.loi-in-thoi-wrapper {
+  padding: 0 var(--padding-13xl);
+  flex-direction: row;
+}
+
+.frame-59-parent, .frame-parent32, .frame-wrapper23, .loi-in-thoi-wrapper {
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.frame-59-parent {
+  gap: var(--gap-36xl);
+  flex-direction: column;
+  width: 245px;
+  height: 690px;
+}
+
+.frame-parent32, .frame-wrapper23 {
+  flex-direction: row;
+  max-width: 100%;
+}
+
+.frame-parent32 {
+  gap: var(--gap-67xl);
+  flex: 1;
+}
+
+.frame-wrapper23 {
+  padding: 0 77px var(--padding-10xl);
+  box-sizing: border-box;
+  width: 1410px;
+}
+
+.b-nh-trong1, .tn-s-qut {
+  font-weight: 600;
+  position: relative;
+}
+
+.b-nh-trong-parent {
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: var(--gap-10xl);
+  flex-direction: column;
+  display: flex;
+}
+
+.dung-lng-ram1, .tnh-nng-c {
+  font-weight: 600;
+  position: relative;
+}
+
+.logic-gate-xor {
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 256px;
+  display: flex;
+}
+
+.hiu-nng-camera {
+  font-weight: 600;
+  position: relative;
+}
+
+.dung-lng-ram-parent {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 64px;
+  max-width: 100%;
+  display: flex;
+}
+
+.kch-thc-mn {
+  font-weight: 600;
+  position: relative;
+}
+
+.logic-gate-xnor {
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 268px;
+  display: flex;
+}
+
+.chip-x-l, .kiu-mn-hnh {
+  font-weight: 600;
+  position: relative;
+}
+
+.chip-x-l {
+  min-width: 116px;
+  display: inline-block;
+}
+
+.logic-gate-or {
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--gap-xl);
+  flex-direction: row;
+  width: 795px;
+  max-width: 100%;
+  display: flex;
+}
+
+.logic-gate-nor {
+  flex-direction: row;
+  justify-content: flex-end;
+  align-self: stretch;
+}
+
+.frame-parent38, .frame-parent39, .frame-wrapper28, .logic-gate-nor {
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.frame-parent39 {
+  justify-content: flex-start;
+  gap: var(--gap-10xl);
+  flex-direction: column;
+  flex: 1;
+  min-width: 543px;
+}
+
+.frame-parent38, .frame-wrapper28 {
+  flex-direction: row;
+}
+
+.frame-parent38 {
+  justify-content: flex-start;
+  gap: var(--gap-50xl);
+  flex-wrap: wrap;
+  width: 1054px;
+}
+
+.frame-wrapper28 {
+  padding: 0 var(--padding-xl) var(--padding-10xl);
+  box-sizing: border-box;
+  justify-content: center;
+  width: 1334px;
+}
+
+.sp-xp-theo {
+  font-size: inherit;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 600;
+  position: relative;
+}
+
+.sp-xp-theo-wrapper {
+  padding: 0 76px var(--padding-10xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-21xl);
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.gi-cao-, .gi-thp- {
+  width: 174px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.frame-wrapper30, .gi-cao-thp-parent {
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.gi-cao-thp-parent {
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  flex: 1;
+}
+
+.frame-wrapper30 {
+  padding: 0 var(--padding-21xl);
+  box-sizing: border-box;
+  justify-content: flex-end;
+  width: 582px;
+}
+
+.iphone-13-2-icon1 {
+  cursor: pointer;
+  min-height: 259px;
+}
+
+.iphone-13-2-icon1, .iphone-15-plus-1-icon {
+  object-fit: cover;
+  width: 259px;
+  height: 259px;
+  position: relative;
+}
+
+.iphone-15-plus-1-wrapper {
+  padding: var(--padding-12xs) 0 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.iphone-13-2-parent {
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--gap-xl);
+  flex-direction: row;
+  width: 605px;
+  max-width: 100%;
+  display: flex;
+}
+
+.gb-chnh, .iphone-13 {
+  margin: 0;
+}
+
+.iphone-13-128gb-container {
+  cursor: pointer;
+  z-index: 1;
+  flex: 1;
+  min-width: 235px;
+  max-width: 100%;
+  height: 39px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.chnh-hng-vna, .iphone-15-pro, .max-256gb {
+  margin: 0;
+}
+
+.iphone-15-pro-container {
+  color: inherit;
+  flex-shrink: 0;
+  width: 291px;
+  height: 39px;
+  margin-left: -12px;
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-block;
+  position: relative;
+}
+
+.iphone-13-128gb-chnh-hng-v-group {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  row-gap: 20px;
+  max-width: 100%;
+  display: flex;
+}
+
+.frame-parent41, .frame-parent42 {
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.frame-parent42 {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: var(--gap-smi);
+  text-align: left;
+  font-size: var(--font-size-13xl);
+}
+
+.frame-parent41 {
+  align-items: flex-end;
+  gap: var(--gap-4xl);
+  width: 640px;
+  min-width: 640px;
+}
+
+.khuyn-mi-hot, .xem-nhiu {
+  font-weight: 600;
+  position: relative;
+}
+
+.xem-nhiu {
+  width: 123px;
+  min-width: 123px;
+  display: inline-block;
+}
+
+.data-aggregator, .data-aggregator-wrapper {
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.data-aggregator {
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  flex: 1;
+}
+
+.data-aggregator-wrapper {
+  box-sizing: border-box;
+  justify-content: flex-start;
+  width: 586px;
+  padding: 0 61px;
+}
+
+.iphone-15-pro-max-3-icon {
+  object-fit: cover;
+  width: 259px;
+  height: 259px;
+  position: relative;
+}
+
+.iphone-15-pro-max-3-wrapper {
+  padding: 0 var(--padding-10xs);
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.chnh-hng-vna1, .gb2, .iphone-15-pro1 {
+  margin: 0;
+}
+
+.iphone-15-pro-container1 {
+  flex-shrink: 0;
+  align-self: stretch;
+  height: 39px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.frame-parent44 {
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: var(--gap-smi);
+  flex-direction: column;
+  width: 288px;
+  min-width: 288px;
+  display: flex;
+}
+
+.samsung-galaxy-z-fold-5-256gb-icon {
+  object-fit: cover;
+  width: 259px;
+  height: 259px;
+  position: relative;
+}
+
+.samsung-galaxy-z-fold-5-256gb-wrapper {
+  padding: 0 var(--padding-xs);
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.gb3, .samsung-galaxy, .z-fold5 {
+  margin: 0;
+}
+
+.samsung-galaxy-z-container {
+  flex-shrink: 0;
+  align-self: stretch;
+  height: 39px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.frame-parent45, .output-processor1 {
+  justify-content: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.frame-parent45 {
+  align-items: flex-start;
+  gap: var(--gap-sm);
+  flex-direction: column;
+  flex: 1;
+  min-width: 216px;
+}
+
+.output-processor1 {
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  flex-direction: row;
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 48px;
+}
+
+.frame-parent43 {
+  gap: var(--gap-4xl);
+  flex-direction: column;
+  flex: 1;
+  min-width: 434px;
+}
+
+.frame-parent27, .frame-parent40, .frame-parent43, .frame-wrapper29 {
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.frame-parent40 {
+  gap: var(--gap-33xl);
+  flex-direction: row;
+  flex: 1;
+}
+
+.frame-parent27, .frame-wrapper29 {
+  box-sizing: border-box;
+  align-self: stretch;
+}
+
+.frame-wrapper29 {
+  padding: 0 var(--padding-19xl) 0 var(--padding-23xl);
+  text-align: center;
+  flex-direction: row;
+}
+
+.frame-parent27 {
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+  flex-direction: column;
+  padding: 0 0 169px;
+}
+
+.samsung-galaxy-s23-ultra-icon {
+  object-fit: cover;
+  width: 260px;
+  height: 259px;
+  position: relative;
+}
+
+.samsung-galaxy-s23-ultra-wrapper {
+  padding: 0 var(--padding-12xl);
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.s23-ultra-256gb, .samsung-galaxy1 {
+  margin: 0;
+}
+
+.samsung-galaxy-s23-container {
+  flex: 1;
+  max-width: 100%;
+  height: 39px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.samsung-galaxy-s23-ultra-256gb-wrapper {
+  padding: 0 0 0 var(--padding-11xl);
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.laptop5 {
+  font-size: var(--font-size-29xl);
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+  width: 213px;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.frame-parent49 {
+  align-self: stretch;
+  gap: 90px;
+}
+
+.frame-parent48, .frame-parent49, .frame-wrapper32 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.frame-parent48 {
+  align-self: stretch;
+  gap: var(--gap-lg);
+}
+
+.frame-wrapper32 {
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  width: 377px;
+  min-width: 377px;
+}
+
+.samsung-galaxy-z-flip-5-256gb-icon {
+  object-fit: cover;
+  width: 260px;
+  height: 259px;
+  position: relative;
+}
+
+.samsung-galaxy2, .z-flip5-512gb {
+  margin: 0;
+}
+
+.samsung-galaxy-z-container1 {
+  flex: 1;
+  height: 40px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.samsung-galaxy-z-flip5-512gb-wrapper {
+  padding: 0 0 0 var(--padding-6xs);
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  display: flex;
+}
+
+.samsung-galaxy-z-flip-5-256gb-parent {
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: var(--gap-mid);
+  flex-direction: column;
+  display: flex;
+}
+
+.tecno-spark-20-pro-plus-1-2-icon {
+  object-fit: cover;
+  width: 260px;
+  height: 259px;
+  position: relative;
+}
+
+.pro, .tecno-spark {
+  margin: 0;
+}
+
+.tecno-spark-20pro-container {
+  flex: 1;
+  height: 39px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.tecno-spark-20pro-wrapper {
+  padding: 0 0 0 var(--padding-12xs);
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  display: flex;
+}
+
+.tecno-spark-20-pro-plus-1-2-parent {
+  padding: 0 var(--padding-12xl) 0 0;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: var(--gap-lg);
+  flex-direction: column;
+  display: flex;
+}
+
+.ss-s24-ultra-xam-222-icon {
+  object-fit: cover;
+  width: 260px;
+  height: 260px;
+  position: relative;
+}
+
+.ss-s24-ultra-xam-222-wrapper {
+  padding: 0 var(--padding-8xs);
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.gb-256gb, .s24-ultra, .samsung-galaxy3 {
+  margin: 0;
+}
+
+.samsung-galaxy-s24-container {
+  flex-shrink: 0;
+  align-self: stretch;
+  height: 39px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.frame-parent51 {
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: var(--gap-xl);
+  flex-direction: column;
+  display: flex;
+}
+
+.frame-parent47, .frame-parent50 {
+  flex-direction: row;
+  flex: 1;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+
+.frame-parent50 {
+  align-items: flex-end;
+  gap: var(--gap-33xl);
+  grid-template-columns: repeat(3, minmax(223px, 1fr));
+  min-width: 642px;
+  display: grid;
+}
+
+.frame-parent47 {
+  align-items: flex-start;
+  row-gap: 20px;
+  display: flex;
+}
+
+.frame-wrapper31, .gpu-1-icon {
+  align-self: stretch;
+  max-width: 100%;
+}
+
+.frame-wrapper31 {
+  padding: 0 var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-start;
+  display: flex;
+}
+
+.gpu-1-icon {
+  object-fit: cover;
+  flex-shrink: 0;
+  height: 358px;
+  position: relative;
+  overflow: hidden;
+}
+
+.chnh-hng-apple, .gb-512gb, .macbook-pro-14 {
+  margin: 0;
+}
+
+.macbook-pro-14-container {
+  flex: 1;
+  max-width: 100%;
+  height: 31px;
+  display: inline-block;
+  position: relative;
+}
+
+.gpu-1-parent, .macbook-pro-14-m3-8gb-512gb-wrapper {
+  box-sizing: border-box;
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.macbook-pro-14-m3-8gb-512gb-wrapper {
+  padding: 0 var(--padding-4xs) 0 var(--padding-5xs);
+  flex-direction: row;
+  align-self: stretch;
+}
+
+.gpu-1-parent {
+  padding: 0 var(--padding-xs) 0 0;
+  gap: var(--gap-14xl);
+  flex-direction: column;
+  width: 370px;
+}
+
+.macbook-air-m2-1-1-1-1 {
+  object-fit: cover;
+  flex-shrink: 0;
+  align-self: stretch;
+  max-width: 100%;
+  height: 358px;
+  position: relative;
+  overflow: hidden;
+}
+
+.apple2 {
+  text-decoration: underline;
+}
+
+.apple1 {
+  color: inherit;
+}
+
+.apple-macbook-air-m2, .chnh-hng-apple1, .gb-256gb1 {
+  margin: 0;
+}
+
+.apple-macbook-air-container {
+  flex: 1;
+  max-width: 100%;
+  height: 31px;
+  display: inline-block;
+  position: relative;
+}
+
+.apple-macbook-air-m2-2022-8gb-wrapper, .macbook-air-m2-1-1-1-1-parent {
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.apple-macbook-air-m2-2022-8gb-wrapper {
+  padding: 0 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-self: stretch;
+}
+
+.macbook-air-m2-1-1-1-1-parent {
+  gap: var(--gap-14xl);
+  flex-direction: column;
+  width: 358px;
+}
+
+.air-m2-1-icon {
+  object-fit: cover;
+  flex-shrink: 0;
+  align-self: stretch;
+  max-width: 100%;
+  height: 358px;
+  position: relative;
+  overflow: hidden;
+}
+
+.apple-macbook-air, .chnh-hng-apple2, .gb-2020-i {
+  margin: 0;
+}
+
+.apple-macbook-air-container1 {
+  flex-shrink: 0;
+  align-self: stretch;
+  height: 31px;
+  display: inline-block;
+  position: relative;
+}
+
+.air-m2-1-parent, .frame-parent52 {
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: var(--gap-14xl);
+  flex-direction: column;
+  width: 358px;
+  max-width: 100%;
+  display: flex;
+}
+
+.frame-parent52 {
+  padding: 0 0 0 var(--padding-xl);
+  box-sizing: border-box;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  flex-direction: row;
+  width: 1358px;
+}
+
+.frame-parent46, .sn-phm-inner {
+  justify-content: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.frame-parent46 {
+  align-items: flex-end;
+  gap: var(--gap-3xl);
+  flex-direction: column;
+  flex: 1;
+}
+
+.sn-phm-inner {
+  padding: 0 var(--padding-2xs) 184px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+  flex-direction: row;
+  align-items: flex-start;
+  width: 1391px;
+}
+
+.text-ng-n-13-5-14-1-icon {
+  object-fit: cover;
+  width: 358px;
+  max-width: 100%;
+  max-height: 100%;
+  position: relative;
+}
+
+.f15-fx506hf-hn078w, .laptop-asus-tuf1 {
+  margin: 0;
+}
+
+.laptop-asus-tuf-container {
+  flex: 1;
+  max-width: 100%;
+  height: 31px;
+  display: inline-block;
+  position: relative;
+}
+
+.laptop-asus-tuf-gaming-f15-fx5-wrapper, .text-ng-n-13-5-14-1-parent {
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.laptop-asus-tuf-gaming-f15-fx5-wrapper {
+  padding: 0 0 0 var(--padding-5xs);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-self: stretch;
+}
+
+.text-ng-n-13-5-14-1-parent {
+  gap: var(--gap-14xl);
+  flex-direction: column;
+  width: 396px;
+  min-width: 396px;
+}
+
+.text-ng-n-48-3-1-icon {
+  object-fit: cover;
+  flex-shrink: 0;
+  align-self: stretch;
+  max-width: 100%;
+  height: 358px;
+  position: relative;
+  overflow: hidden;
+}
+
+.iax9-83gs001rvn, .laptop-lenovo-loq {
+  margin: 0;
+}
+
+.laptop-lenovo-loq-container {
+  flex: 1;
+  max-width: 100%;
+  height: 31px;
+  display: inline-block;
+  position: relative;
+}
+
+.laptop-lenovo-loq-15iax9-83gs0-wrapper, .text-ng-n-48-3-1-parent {
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.laptop-lenovo-loq-15iax9-83gs0-wrapper {
+  padding: 0 var(--padding-4xs) 0 var(--padding-8xs);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-self: stretch;
+}
+
+.text-ng-n-48-3-1-parent {
+  gap: var(--gap-14xl);
+  flex-direction: column;
+  width: 358px;
+  min-width: 358px;
+}
+
+.frame-parent53, .sn-phm-child {
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.frame-parent53 {
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  flex: 1;
+}
+
+.sn-phm-child {
+  padding: 0 var(--padding-23xl) 128px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+  justify-content: flex-start;
+  width: 938px;
+}
+
+.group-258-5-icon, .mn-hnh-my {
+  max-width: 100%;
+  position: relative;
+}
+
+.mn-hnh-my {
+  font-size: inherit;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+  width: 718px;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 600;
+  display: inline-block;
+}
+
+.group-258-5-icon {
+  object-fit: cover;
+  width: 358px;
+  max-height: 100%;
+}
+
+.mn-hnh-lg, .wq600-29-inch {
+  margin: 0;
+}
+
+.mn-hnh-lg-container {
+  flex: 1;
+  max-width: 100%;
+  height: 31px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.group-258-5-parent, .mn-hnh-lg-ultrawide-29wq600-wrapper {
+  box-sizing: border-box;
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.mn-hnh-lg-ultrawide-29wq600-wrapper {
+  padding: 0 0 0 var(--padding-3xs);
+  flex-direction: row;
+  align-self: stretch;
+}
+
+.group-258-5-parent {
+  padding: 0 var(--padding-smi) 0 0;
+  gap: var(--gap-17xl);
+  flex-direction: column;
+  width: 390px;
+}
+
+.man-hinh-acer-ek221q-e3-22-inc-icon {
+  object-fit: cover;
+  width: 358px;
+  max-width: 100%;
+  max-height: 100%;
+  position: relative;
+}
+
+.e3-22-inch, .mn-hnh-acer {
+  margin: 0;
+}
+
+.mn-hnh-acer-container {
+  flex: 1;
+  max-width: 100%;
+  height: 31px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.mn-hnh-acer-ek221q-e3-22-inc-wrapper {
+  padding: 0 0 0 var(--padding-sm);
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.man-hinh-acer-ek221q-e3-22-inc-parent {
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: var(--gap-17xl);
+  flex-direction: column;
+  width: 390px;
+  max-width: 100%;
+  display: flex;
+}
+
+.man-hinh-msi-pro-mp223-22-inch-icon1 {
+  object-fit: cover;
+  flex: 1;
+  align-self: stretch;
+  max-width: 100%;
+  max-height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.mn-hnh-msi1, .mp223-22-inch {
+  margin: 0;
+}
+
+.mn-hnh-msi-container {
+  flex: 1;
+  height: 31px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.mn-hnh-msi-pro-mp223-22-inch-wrapper {
+  padding: 0 var(--padding-2xl);
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  display: flex;
+}
+
+.man-hinh-msi-pro-mp223-22-inch-parent {
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: var(--gap-17xl);
+  flex-direction: column;
+  width: 358px;
+  max-width: 100%;
+  height: 425px;
+  display: flex;
+}
+
+.frame-parent54 {
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--gap-xl);
+  flex-direction: row;
+  flex: 1;
+  max-width: 100%;
+  display: flex;
+}
+
+.frame-wrapper33 {
+  padding: 0 0 0 var(--padding-10xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+  flex-direction: row;
+  align-self: stretch;
+}
+
+.frame-wrapper33, .mn-hnh-my-tnh-bn-parent, .sn-phm-inner1 {
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.mn-hnh-my-tnh-bn-parent {
+  gap: var(--gap-6xl);
+  flex-direction: column;
+  flex: 1;
+}
+
+.sn-phm-inner1 {
+  padding: 0 var(--padding-2xs) 192px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+  flex-direction: row;
+  width: 1387px;
+}
+
+.man-hinh-msi-pro-mp243x-24-inc-icon {
+  object-fit: cover;
+  flex-shrink: 0;
+  align-self: stretch;
+  max-width: 100%;
+  height: 358px;
+  position: relative;
+  overflow: hidden;
+}
+
+.mn-hnh-msi2, .mp243x-24-inch {
+  margin: 0;
+}
+
+.mn-hnh-msi-container1 {
+  flex: 1;
+  max-width: 100%;
+  height: 30px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.container1, .output-set {
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.output-set {
+  padding: 0 0 0 var(--padding-3xs);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-self: stretch;
+}
+
+.container1 {
+  gap: var(--gap-xl);
+  flex-direction: column;
+  flex: 1;
+}
+
+.logic-gate, .my-tnh-bng {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.logic-gate {
+  padding: 0 var(--padding-21xl) var(--padding-126xl);
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 440px;
+  display: flex;
+}
+
+.my-tnh-bng {
+  font-size: inherit;
+  padding-right: var(--padding-xl);
+  width: 407px;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.samsung-tab-s9-xam-1-1-pre-1-icon {
+  object-fit: cover;
+  flex-shrink: 0;
+  align-self: stretch;
+  max-width: 100%;
+  height: 358px;
+  position: relative;
+  overflow: hidden;
+}
+
+.ch-c-ti, .s9-ultra-12gb, .samsung-galaxy-tab {
+  margin: 0;
+}
+
+.samsung-galaxy-tab-container {
+  flex: 1;
+  max-width: 100%;
+  height: 31px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.samsung-galaxy-tab-s9-ultra-12-wrapper {
+  padding: 0 0 0 var(--padding-3xs);
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.samsung-tab-s9-xam-1-1-pre-1-parent {
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: var(--gap-mini);
+  flex-direction: column;
+  width: 358px;
+  max-width: 100%;
+  display: flex;
+}
+
+.ipad-10-2-inch-2021-1-icon {
+  object-fit: cover;
+  flex-shrink: 0;
+  align-self: stretch;
+  max-width: 100%;
+  height: 358px;
+  position: relative;
+  overflow: hidden;
+}
+
+.apple-vit-nam, .gb-chnh1, .ipad-102-2021 {
+  margin: 0;
+}
+
+.ipad-102-2021-container {
+  flex: 1;
+  max-width: 100%;
+  height: 31px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.ipad-10-2-inch-2021-1-parent, .ipad-102-2021-wifi-64gb-ch-wrapper {
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.ipad-102-2021-wifi-64gb-ch-wrapper {
+  padding: 0 var(--padding-11xs) 0 var(--padding-base);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-self: stretch;
+}
+
+.ipad-10-2-inch-2021-1-parent {
+  gap: var(--gap-mini);
+  flex-direction: column;
+  width: 358px;
+}
+
+.ipad-10-9-inch-2022-icon {
+  object-fit: cover;
+  width: 358px;
+  max-width: 100%;
+  max-height: 100%;
+  position: relative;
+}
+
+.hng-apple-vit, .ipad-gen-10, .wifi-64gb-i {
+  margin: 0;
+}
+
+.ipad-gen-10-container {
+  flex: 1;
+  max-width: 100%;
+  height: 31px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.ipad-gen-10-109-inch-2022-wif-wrapper {
+  padding: 0 0 0 var(--padding-base);
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: stretch;
+}
+
+.frame-parent55, .ipad-10-9-inch-2022-parent, .ipad-gen-10-109-inch-2022-wif-wrapper {
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.ipad-10-9-inch-2022-parent {
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+  flex-direction: column;
+  width: 392px;
+}
+
+.frame-parent55 {
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  flex-direction: row;
+  flex: 1;
+}
+
+.frame-wrapper34 {
+  padding: 0 0 0 var(--padding-10xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+  flex-direction: row;
+  align-self: stretch;
+}
+
+.frame-wrapper34, .my-tnh-bng-parent, .sn-phm-inner2 {
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.my-tnh-bng-parent {
+  gap: var(--gap-16xl);
+  flex-direction: column;
+  flex: 1;
+}
+
+.sn-phm-inner2 {
+  padding: 0 var(--padding-2xs) 198px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+  flex-direction: row;
+  width: 1425px;
+}
+
+.ipad-air-5-icon {
+  object-fit: cover;
+  width: 358px;
+  max-width: 100%;
+  max-height: 100%;
+  position: relative;
+}
+
+.chnh-hng-apple3, .ipad-air-5, .wifi-64gb-i1 {
+  margin: 0;
+}
+
+.ipad-air-5-container {
+  flex: 1;
+  max-width: 100%;
+  height: 39px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.ipad-air-5-109-inch-2022-wi-wrapper {
+  padding: 0 0 0 var(--padding-3xs);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-self: stretch;
+}
+
+.ipad-air-5-109-inch-2022-wi-wrapper, .ipad-air-5-parent, .sn-phm-inner3 {
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.ipad-air-5-parent {
+  gap: var(--gap-2xl);
+  flex-direction: column;
+  flex: 1;
+}
+
+.sn-phm-inner3 {
+  padding: 0 var(--padding-21xl) 186px;
+  box-sizing: border-box;
+  flex-direction: row;
+  width: 549px;
+}
+
+.frame-child42 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-crimson-100);
+  width: 1143px;
+  max-width: 100%;
+  height: 79px;
+  display: none;
+  position: relative;
+}
+
+.xem-tt-c1 {
+  font-size: inherit;
+  z-index: 1;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 600;
+  position: relative;
+}
+
+.rectangle-parent24, .sn-phm-inner4 {
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.rectangle-parent24 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-crimson-100);
+  padding: var(--padding-12xs) var(--padding-xl) var(--padding-11xl);
+  width: 1143px;
+}
+
+.sn-phm-inner4 {
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  font-size: var(--font-size-21xl);
+  align-self: stretch;
+}
+
+.tng-i-h2 {
+  margin: 0;
+}
+
+.span8 {
+  text-decoration: underline;
+}
+
+.a8 {
+  color: inherit;
+}
+
+.gi-mua-hng-18002097-7h30-5 {
+  margin-bottom: 0;
+}
+
+.span9 {
+  text-decoration: underline;
+}
+
+.a9 {
+  color: inherit;
+}
+
+.gi-khiu-ni-18002063-8h002 {
+  margin-bottom: 0;
+}
+
+.span10 {
+  text-decoration: underline;
+}
+
+.a10 {
+  color: inherit;
+}
+
+.gi-mua-hng-18002097-7h30-4 {
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-13xl);
+  margin: 0;
+}
+
+.tng-i-h-container2 {
+  height: 116px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.tng-i-h-tr-min-ph-gi-m-wrapper {
+  box-sizing: border-box;
+  flex-direction: column;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: flex-start;
+  min-width: 333px;
+  max-width: 100%;
+  padding: 87px 0 0;
+  display: flex;
+}
+
+.thng-tin-v2 {
+  margin: 0;
+}
+
+.mua-hng-v2 {
+  text-decoration: underline;
+}
+
+.mua-hng-v-thanh-ton-online8 {
+  color: inherit;
+}
+
+.mua-hng-v-thanh-ton-online7 {
+  margin-bottom: 0;
+}
+
+.mua-hng-tr4 {
+  text-decoration: underline;
+}
+
+.mua-hng-tr-gp-online5 {
+  color: inherit;
+}
+
+.mua-hng-tr-gp-online4 {
+  margin-bottom: 0;
+}
+
+.mua-hng-tr5 {
+  text-decoration: underline;
+}
+
+.mua-hng-tr-gp-bng-th-tn5 {
+  color: inherit;
+}
+
+.mua-hng-tr-gp-bng-th-tn4 {
+  margin-bottom: 0;
+}
+
+.chnh-sch-giao2 {
+  text-decoration: underline;
+}
+
+.chnh-sch-giao-hng5 {
+  color: inherit;
+}
+
+.chnh-sch-giao-hng4 {
+  margin-bottom: 0;
+}
+
+.tra-im-smember8 {
+  text-decoration: underline;
+}
+
+.tra-im-smember7 {
+  color: inherit;
+}
+
+.tra-im-smember6 {
+  margin-bottom: 0;
+}
+
+.xem-u-i2 {
+  text-decoration: underline;
+}
+
+.xem-u-i-smember5 {
+  color: inherit;
+}
+
+.xem-u-i-smember4 {
+  margin-bottom: 0;
+}
+
+.tra-thng-tin2 {
+  text-decoration: underline;
+}
+
+.tra-thng-tin-bo-hnh5 {
+  color: inherit;
+}
+
+.tra-thng-tin-bo-hnh4 {
+  margin-bottom: 0;
+}
+
+.tra-cu-ho2 {
+  text-decoration: underline;
+}
+
+.tra-cu-ho-n-in-t5 {
+  color: inherit;
+}
+
+.tra-cu-ho-n-in-t4 {
+  margin-bottom: 0;
+}
+
+.thng-tin-ho2 {
+  text-decoration: underline;
+}
+
+.thng-tin-ho-n-mua-hng5 {
+  color: inherit;
+}
+
+.thng-tin-ho-n-mua-hng4 {
+  margin-bottom: 0;
+}
+
+.trung-tm-bo2 {
+  text-decoration: underline;
+}
+
+.trung-tm-bo-hnh-chnh-hng5 {
+  color: inherit;
+}
+
+.trung-tm-bo-hnh-chnh-hng4 {
+  margin-bottom: 0;
+}
+
+.quy-nh-v2 {
+  text-decoration: underline;
+}
+
+.quy-nh-v-vic-sao-lu-d-li2 {
+  color: inherit;
+}
+
+.mua-hng-v-thanh-ton-online6 {
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-13xl);
+  margin: 0;
+}
+
+.thng-tin-v-container2 {
+  z-index: 1;
+  height: 349px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.thng-tin-v-chnh-sch-mua-h-wrapper {
+  box-sizing: border-box;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  padding: 88.9px 0 0;
+  display: flex;
+}
+
+.blank-line11, .blank-line12 {
+  margin: 0;
+}
+
+.blank-line15 {
+  text-decoration: underline;
+}
+
+.blank-line14 {
+  color: inherit;
+}
+
+.blank-line13, .dch-v-v2 {
+  margin: 0;
+}
+
+.khch-hng-doanh2 {
+  text-decoration: underline;
+}
+
+.khch-hng-doanh-nghip-b2b8 {
+  color: inherit;
+}
+
+.khch-hng-doanh-nghip-b2b7 {
+  margin-bottom: 0;
+}
+
+.u-i-thanh2 {
+  text-decoration: underline;
+}
+
+.u-i-thanh-ton5 {
+  color: inherit;
+}
+
+.u-i-thanh-ton4 {
+  margin-bottom: 0;
+}
+
+.quy-ch-hot2 {
+  text-decoration: underline;
+}
+
+.quy-ch-hot-ng5 {
+  color: inherit;
+}
+
+.quy-ch-hot-ng4 {
+  margin-bottom: 0;
+}
+
+.chnh-sch-bo4 {
+  text-decoration: underline;
+}
+
+.chnh-sch-bo-mt-thng-tin-c5 {
+  color: inherit;
+}
+
+.chnh-sch-bo-mt-thng-tin-c4 {
+  margin-bottom: 0;
+}
+
+.chnh-sch-bo5 {
+  text-decoration: underline;
+}
+
+.chnh-sch-bo-hnh5 {
+  color: inherit;
+}
+
+.chnh-sch-bo-hnh4 {
+  margin-bottom: 0;
+}
+
+.lin-h-hp2 {
+  text-decoration: underline;
+}
+
+.lin-h-hp-tc-kinh-doanh5 {
+  color: inherit;
+}
+
+.lin-h-hp-tc-kinh-doanh4 {
+  margin-bottom: 0;
+}
+
+.tuyn-dng8 {
+  text-decoration: underline;
+}
+
+.tuyn-dng7 {
+  color: inherit;
+}
+
+.tuyn-dng6 {
+  margin-bottom: 0;
+}
+
+.dch-v-bo4 {
+  text-decoration: underline;
+}
+
+.dch-v-bo-hnh-in-thoi5 {
+  color: inherit;
+}
+
+.dch-v-bo-hnh-in-thoi4 {
+  margin-bottom: 0;
+}
+
+.dch-v-bo5 {
+  text-decoration: underline;
+}
+
+.dch-v-bo-hnh-m-rng5 {
+  color: inherit;
+}
+
+.dch-v-bo-hnh-m-rng4 {
+  margin-bottom: 0;
+}
+
+.khch-hng-doanh-nghip-b2b6 {
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-13xl);
+  margin: 0;
+}
+
+.blank-line16 {
+  margin: 0;
+}
+
+.dch-v-v-container2 {
+  z-index: 1;
+  flex-shrink: 0;
+  width: 438px;
+  max-width: 100%;
+  height: 417px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.frame-parent57 {
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  gap: var(--gap-smi-5);
+  flex-flow: wrap;
+  max-width: 100%;
+  display: flex;
+}
+
+.qu-tt-20245 {
+  text-decoration: underline;
+}
+
+.qu-tt-20244 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.in-thoi5 {
+  text-decoration: underline;
+}
+
+.in-thoi4 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.in-thoi-iphone5 {
+  text-decoration: underline;
+}
+
+.in-thoi-iphone4 {
+  color: inherit;
+}
+
+.in-thoi-iphone4, .node2 {
+  white-space: pre-wrap;
+}
+
+.qu-tt-2024-in-thoi2 {
+  margin: 0;
+}
+
+.in-thoi-vivo5 {
+  text-decoration: underline;
+}
+
+.in-thoi-vivo4 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.in-thoi-oppo5 {
+  text-decoration: underline;
+}
+
+.in-thoi-oppo4 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.in-thoi-xiaomi5 {
+  text-decoration: underline;
+}
+
+.in-thoi-xiaomi4 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.in-thoi-samsung2 {
+  text-decoration: underline;
+}
+
+.in-thoi-samsung-galaxy2 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.samsung-galaxy-a5 {
+  text-decoration: underline;
+}
+
+.samsung-galaxy-a4 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.in-thoi-vivo-in-thoi-o2 {
+  margin: 0;
+}
+
+.laptop7 {
+  text-decoration: underline;
+}
+
+.laptop6 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.laptop-acer5 {
+  text-decoration: underline;
+}
+
+.laptop-acer4 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.laptop-dell5 {
+  text-decoration: underline;
+}
+
+.laptop-dell4 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.laptop-hp5 {
+  text-decoration: underline;
+}
+
+.laptop-hp4 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.tivi6 {
+  text-decoration: underline;
+}
+
+.tivi5 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.tivi-samsung5 {
+  text-decoration: underline;
+}
+
+.tivi-samsung4 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.tivi-sony5 {
+  text-decoration: underline;
+}
+
+.tivi-sony4 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.tivi-lg5 {
+  text-decoration: underline;
+}
+
+.tivi-lg4 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.tivi-tcl5 {
+  text-decoration: underline;
+}
+
+.tivi-tcl4 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.laptop-laptop-acer-lapto2 {
+  margin: 0;
+}
+
+.nh-thng-minh5 {
+  text-decoration: underline;
+}
+
+.nh-thng-minh4 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.my-ht-bi5 {
+  text-decoration: underline;
+}
+
+.my-ht-bi4 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.cn-in-t5 {
+  text-decoration: underline;
+}
+
+.cn-in-t4 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.gia-dng5 {
+  text-decoration: underline;
+}
+
+.gia-dng4 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.ni-chin-khng2 {
+  text-decoration: underline;
+}
+
+.ni-chin-khng-du2 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.ni-cm-in5 {
+  text-decoration: underline;
+}
+
+.ni-cm-in4 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.blank-line17, .nh-thng-minh-my-ht-bi2 {
+  margin: 0;
+}
+
+.qu-tt-2024-in-container2 {
+  flex-shrink: 0;
+  height: 232px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.qu-tt-2024-in-thoi-wrapper {
+  padding: var(--padding-6xs-2) 0 0;
+  box-sizing: border-box;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  min-width: 628px;
+  max-width: 100%;
+  display: flex;
+}
+
+.blank-line18, .cng-ty-tnhh2 {
+  margin: 0;
+}
+
+.cng-ty-tnhh-container2 {
+  flex: 1;
+  min-width: 407px;
+  max-width: 100%;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.frame-footer, .frame-parent58 {
+  flex-direction: row;
+  max-width: 100%;
+}
+
+.frame-parent58 {
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: var(--gap-22xl);
+  flex: 1;
+  display: flex;
+}
+
+.frame-footer {
+  padding: 0 var(--padding-27xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+  width: 1387px;
+}
+
+.frame-footer, .frame-parent56, .sn-phm-inner5, .sn-phm2 {
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.frame-parent56 {
+  gap: var(--gap-base);
+  flex-direction: column;
+  flex: 1;
+  max-width: 100%;
+}
+
+.sn-phm-inner5, .sn-phm2 {
+  box-sizing: border-box;
+  text-align: left;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+
+.sn-phm-inner5 {
+  padding: 0 var(--padding-5xs);
+  font-size: var(--font-size-5xl);
+  flex-direction: row;
+  align-self: stretch;
+  max-width: 100%;
+}
+
+.sn-phm2 {
+  background-color: var(--color-gray-100);
+  padding: var(--padding-10xs) 0 0;
+  letter-spacing: normal;
+  line-height: normal;
+  font-size: var(--font-size-13xl);
+  flex-direction: column;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (width <= 1225px) {
+  .apple-parent {
+    flex-wrap: wrap;
+  }
+
+  .frame-wrapper22, .frame-wrapper23 {
+    padding-left: var(--padding-2xl);
+    padding-right: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+
+  .frame-wrapper23 {
+    padding-left: var(--padding-19xl);
+    padding-right: var(--padding-19xl);
+  }
+
+  .frame-parent41, .gi-cao-thp-parent {
+    flex: 1;
+  }
+
+  .frame-parent40 {
+    flex-wrap: wrap;
+  }
+
+  .frame-parent27 {
+    box-sizing: border-box;
+    padding-bottom: 110px;
+  }
+
+  .frame-wrapper32 {
+    flex: 1;
+  }
+
+  .frame-parent47, .frame-parent52 {
+    flex-wrap: wrap;
+  }
+
+  .sn-phm-inner {
+    box-sizing: border-box;
+    padding-bottom: 120px;
+  }
+
+  .frame-parent54, .frame-parent55 {
+    flex-wrap: wrap;
+  }
+
+  .qu-tt-2024-in-thoi-wrapper {
+    flex: 1;
+  }
+
+  .frame-parent58 {
+    flex-wrap: wrap;
+  }
+
+  .frame-footer {
+    padding-left: var(--padding-4xl);
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (width <= 1050px) {
+  .frame-parent28 {
+    gap: var(--gap-42xl);
+  }
+
+  .frame-parent36 {
+    flex: 1;
+  }
+
+  .frame-parent35 {
+    flex: 1;
+    min-width: 100%;
+  }
+
+  .zte-logo-11-parent {
+    flex: 1;
+  }
+
+  .frame-parent34 {
+    flex-wrap: wrap;
+  }
+
+  .frame-parent33 {
+    max-width: 100%;
+  }
+
+  .frame-59-parent {
+    display: none;
+  }
+
+  .dung-lng-ram-parent {
+    gap: var(--gap-13xl);
+    flex-wrap: wrap;
+  }
+
+  .frame-parent38 {
+    gap: var(--gap-15xl);
+  }
+
+  .frame-parent27 {
+    box-sizing: border-box;
+    padding-bottom: 71px;
+  }
+
+  .text-ng-n-13-5-14-1-parent, .text-ng-n-48-3-1-parent {
+    flex: 1;
+  }
+
+  .frame-parent53 {
+    flex-wrap: wrap;
+  }
+
+  .sn-phm-child {
+    padding-left: var(--padding-2xl);
+    padding-right: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+
+  .qu-tt-2024-in-thoi-wrapper {
+    min-width: 100%;
+  }
+}
+
+@media screen and (width <= 750px) {
+  .group-header {
+    padding-left: var(--padding-26xl);
+    padding-right: var(--padding-3xl);
+    box-sizing: border-box;
+  }
+
+  .div3, .sn-phm3, .trang-ch3 {
+    font-size: var(--font-size-7xl);
+  }
+
+  .in-thoi-ni {
+    font-size: var(--font-size-19xl);
+  }
+
+  .t-i-xu-ng-67-parent {
+    flex-wrap: wrap;
+  }
+
+  .frame-60-parent {
+    gap: var(--gap-12xl);
+    flex-wrap: wrap;
+  }
+
+  .frame-65-parent, .infinixlogo-parent {
+    gap: var(--gap-15xl);
+    flex-wrap: wrap;
+  }
+
+  .frame-parent36 {
+    gap: var(--gap-8xl);
+  }
+
+  .chn-theo-nhu {
+    font-size: var(--font-size-13xl);
+  }
+
+  .frame-parent35 {
+    gap: var(--gap-lg);
+  }
+
+  .chi-game-parent {
+    flex-wrap: wrap;
+  }
+
+  .chn-theo-tiu {
+    font-size: var(--font-size-13xl);
+  }
+
+  .frame-parent37 {
+    flex-wrap: wrap;
+  }
+
+  .frame-parent32 {
+    gap: 43px;
+  }
+
+  .logic-gate-or {
+    flex-wrap: wrap;
+  }
+
+  .frame-parent39 {
+    min-width: 100%;
+  }
+
+  .frame-parent38 {
+    gap: var(--gap-mid);
+  }
+
+  .sp-xp-theo {
+    font-size: var(--font-size-13xl);
+  }
+
+  .gi-cao-thp-parent, .iphone-13-2-parent {
+    flex-wrap: wrap;
+  }
+
+  .iphone-13-128gb-container, .iphone-15-pro-container {
+    font-size: var(--font-size-7xl);
+  }
+
+  .iphone-15-pro-container {
+    margin-left: 0;
+  }
+
+  .iphone-13-128gb-chnh-hng-v-group {
+    flex-wrap: wrap;
+  }
+
+  .frame-parent41 {
+    min-width: 100%;
+  }
+
+  .data-aggregator-wrapper {
+    padding-left: var(--padding-11xl);
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+
+  .iphone-15-pro-container1 {
+    font-size: var(--font-size-7xl);
+  }
+
+  .frame-parent44 {
+    flex: 1;
+  }
+
+  .samsung-galaxy-z-container {
+    font-size: var(--font-size-7xl);
+  }
+
+  .output-processor1 {
+    gap: var(--gap-5xl);
+    flex-wrap: wrap;
+  }
+
+  .frame-parent43 {
+    min-width: 100%;
+  }
+
+  .frame-parent40 {
+    gap: var(--gap-7xl);
+  }
+
+  .frame-wrapper29 {
+    padding-left: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+
+  .samsung-galaxy-s23-container {
+    font-size: var(--font-size-7xl);
+  }
+
+  .laptop5 {
+    font-size: var(--font-size-19xl);
+  }
+
+  .samsung-galaxy-s24-container, .samsung-galaxy-z-container1, .tecno-spark-20pro-container {
+    font-size: var(--font-size-7xl);
+  }
+
+  .frame-parent50 {
+    gap: var(--gap-7xl);
+    grid-template-columns: repeat(2, minmax(223px, 386px));
+    justify-content: center;
+    min-width: 100%;
+  }
+
+  .apple-macbook-air-container, .apple-macbook-air-container1, .macbook-pro-14-container {
+    font-size: var(--font-size-7xl);
+  }
+
+  .sn-phm-inner {
+    padding-bottom: var(--padding-59xl);
+    box-sizing: border-box;
+  }
+
+  .laptop-asus-tuf-container {
+    font-size: var(--font-size-7xl);
+  }
+
+  .text-ng-n-13-5-14-1-parent {
+    min-width: 100%;
+  }
+
+  .laptop-lenovo-loq-container {
+    font-size: var(--font-size-7xl);
+  }
+
+  .text-ng-n-48-3-1-parent {
+    min-width: 100%;
+  }
+
+  .sn-phm-child {
+    box-sizing: border-box;
+    padding-bottom: 83px;
+  }
+
+  .mn-hnh-my {
+    font-size: var(--font-size-19xl);
+  }
+
+  .mn-hnh-acer-container, .mn-hnh-lg-container, .mn-hnh-msi-container {
+    font-size: var(--font-size-7xl);
+  }
+
+  .sn-phm-inner1 {
+    box-sizing: border-box;
+    padding-bottom: 125px;
+  }
+
+  .mn-hnh-msi-container1 {
+    font-size: var(--font-size-7xl);
+  }
+
+  .logic-gate {
+    box-sizing: border-box;
+    padding-bottom: 94px;
+  }
+
+  .my-tnh-bng {
+    font-size: var(--font-size-19xl);
+  }
+
+  .ipad-102-2021-container, .ipad-gen-10-container, .samsung-galaxy-tab-container {
+    font-size: var(--font-size-7xl);
+  }
+
+  .my-tnh-bng-parent {
+    gap: var(--gap-mid);
+  }
+
+  .sn-phm-inner2 {
+    box-sizing: border-box;
+    padding-bottom: 129px;
+  }
+
+  .ipad-air-5-container {
+    font-size: var(--font-size-7xl);
+  }
+
+  .sn-phm-inner3 {
+    box-sizing: border-box;
+    padding-bottom: 121px;
+  }
+
+  .xem-tt-c1 {
+    font-size: var(--font-size-13xl);
+  }
+
+  .cng-ty-tnhh-container2 {
+    min-width: 100%;
+  }
+
+  .frame-parent58 {
+    gap: var(--gap-xl);
+  }
+}
+
+@media screen and (width <= 450px) {
+  .frame-parent28 {
+    gap: var(--gap-12xl);
+  }
+
+  .group-header {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+
+  .div3, .sn-phm3, .trang-ch3 {
+    font-size: var(--font-size-lgi);
+  }
+
+  .in-thoi-ni {
+    font-size: var(--font-size-10xl);
+  }
+
+  .apple, .asus, .infinix, .nokia, .oneplus, .oppo, .realme, .samsung, .tecno, .vivo, .xem-tt-c, .xiaomi {
+    font-size: var(--font-size-lgi);
+  }
+
+  .frame-60-parent {
+    gap: var(--gap-base);
+  }
+
+  .frame-65-parent, .infinixlogo-parent {
+    gap: var(--gap-mid);
+  }
+
+  .chn-theo-nhu {
+    font-size: var(--font-size-5xl);
+  }
+
+  .chi-game, .chp-nh-p, .cu-hnh-cao, .in-thoi-gp, .livestream, .pin-tru {
+    font-size: var(--font-size-lgi);
+  }
+
+  .tree-connector {
+    flex-wrap: wrap;
+  }
+
+  .chn-theo-tiu {
+    font-size: var(--font-size-5xl);
+  }
+
+  .b-lc, .dung-lng-ln, .gi, .loi-in-thoi, .nhu-cu-s, .sn-hng {
+    font-size: var(--font-size-lgi);
+  }
+
+  .frame-parent32 {
+    gap: var(--gap-2xl);
+  }
+
+  .b-nh-trong1, .dung-lng-ram1, .hiu-nng-camera, .tn-s-qut, .tnh-nng-c {
+    font-size: var(--font-size-lgi);
+  }
+
+  .dung-lng-ram-parent {
+    gap: var(--gap-base);
+  }
+
+  .chip-x-l, .kch-thc-mn, .kiu-mn-hnh {
+    font-size: var(--font-size-lgi);
+  }
+
+  .sp-xp-theo {
+    font-size: var(--font-size-5xl);
+  }
+
+  .sp-xp-theo-wrapper {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+
+  .gi-cao-, .gi-thp-, .iphone-13-128gb-container, .iphone-15-pro-container, .khuyn-mi-hot, .xem-nhiu {
+    font-size: var(--font-size-lgi);
+  }
+
+  .data-aggregator {
+    flex-wrap: wrap;
+  }
+
+  .iphone-15-pro-container1, .samsung-galaxy-z-container {
+    font-size: var(--font-size-lgi);
+  }
+
+  .frame-parent27 {
+    padding-bottom: var(--padding-27xl);
+    box-sizing: border-box;
+  }
+
+  .samsung-galaxy-s23-container {
+    font-size: var(--font-size-lgi);
+  }
+
+  .laptop5 {
+    font-size: var(--font-size-10xl);
+  }
+
+  .frame-parent49 {
+    gap: var(--gap-26xl);
+  }
+
+  .frame-wrapper32 {
+    min-width: 100%;
+  }
+
+  .samsung-galaxy-s24-container, .samsung-galaxy-z-container1, .tecno-spark-20pro-container {
+    font-size: var(--font-size-lgi);
+  }
+
+  .frame-parent50 {
+    grid-template-columns: minmax(223px, 1fr);
+  }
+
+  .macbook-pro-14-container {
+    font-size: var(--font-size-lgi);
+  }
+
+  .gpu-1-parent {
+    gap: var(--gap-base);
+  }
+
+  .apple-macbook-air-container {
+    font-size: var(--font-size-lgi);
+  }
+
+  .macbook-air-m2-1-1-1-1-parent {
+    gap: var(--gap-base);
+  }
+
+  .apple-macbook-air-container1 {
+    font-size: var(--font-size-lgi);
+  }
+
+  .air-m2-1-parent {
+    gap: var(--gap-base);
+  }
+
+  .laptop-asus-tuf-container {
+    font-size: var(--font-size-lgi);
+  }
+
+  .text-ng-n-13-5-14-1-parent {
+    gap: var(--gap-base);
+  }
+
+  .laptop-lenovo-loq-container {
+    font-size: var(--font-size-lgi);
+  }
+
+  .text-ng-n-48-3-1-parent {
+    gap: var(--gap-base);
+  }
+
+  .mn-hnh-my {
+    font-size: var(--font-size-10xl);
+  }
+
+  .mn-hnh-lg-container {
+    font-size: var(--font-size-lgi);
+  }
+
+  .group-258-5-parent {
+    gap: var(--gap-lg);
+  }
+
+  .mn-hnh-acer-container {
+    font-size: var(--font-size-lgi);
+  }
+
+  .man-hinh-acer-ek221q-e3-22-inc-parent {
+    gap: var(--gap-lg);
+  }
+
+  .mn-hnh-msi-container {
+    font-size: var(--font-size-lgi);
+  }
+
+  .man-hinh-msi-pro-mp223-22-inch-parent {
+    gap: var(--gap-lg);
+  }
+
+  .mn-hnh-msi-container1 {
+    font-size: var(--font-size-lgi);
+  }
+
+  .my-tnh-bng {
+    font-size: var(--font-size-10xl);
+  }
+
+  .ipad-102-2021-container, .ipad-air-5-container, .ipad-gen-10-container, .samsung-galaxy-tab-container {
+    font-size: var(--font-size-lgi);
+  }
+
+  .xem-tt-c1 {
+    font-size: var(--font-size-5xl);
+  }
+
+  .thng-tin-v-container2, .tng-i-h-container2 {
+    font-size: var(--font-size-lgi);
+  }
+
+  .thng-tin-v-chnh-sch-mua-h-wrapper {
+    box-sizing: border-box;
+    padding-top: 58px;
+  }
+
+  .cng-ty-tnhh-container2, .dch-v-v-container2, .qu-tt-2024-in-container2 {
+    font-size: var(--font-size-lgi);
+  }
+}
+/*# sourceMappingURL=sn-phm.dca37a1d.css.map */

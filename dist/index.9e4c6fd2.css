@@ -1,0 +1,1525 @@
+.frame-child3 {
+  background-color: var(--color-red-200);
+  width: 1440px;
+  max-width: 100%;
+  height: 56px;
+  display: none;
+  position: relative;
+}
+
+.icon-home1 {
+  z-index: 1;
+  width: 39px;
+  height: 32.2px;
+  position: relative;
+}
+
+.icon-home-container {
+  padding: var(--padding-6xs) 0 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.cellphones1 {
+  font-size: inherit;
+  white-space: nowrap;
+  z-index: 1;
+  flex: 1;
+  height: 54px;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.frame-parent1 {
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: var(--gap-8xs);
+  flex-direction: row;
+  width: 281px;
+  display: flex;
+}
+
+.frame-child4, .frame-child5 {
+  border-radius: var(--br-mid);
+  background-color: var(--color-firebrick-100);
+  width: 145px;
+  height: 45px;
+  display: none;
+  position: relative;
+}
+
+.frame-child5 {
+  background-color: var(--color-red-200);
+  width: 130px;
+  height: 35px;
+}
+
+.danh-mc1 {
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 3;
+  min-width: 114px;
+  display: inline-block;
+  position: relative;
+}
+
+.frame-button {
+  cursor: pointer;
+  padding: var(--padding-7xs) var(--padding-6xs) var(--padding-7xs) var(--padding-4xs);
+  background-color: var(--color-red-200);
+  border-radius: var(--br-mid);
+  white-space: nowrap;
+  z-index: 2;
+  border: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.frame-button:hover {
+  background-color: var(--color-red-100);
+}
+
+.frame-child6, .rectangle-parent1 {
+  border-radius: var(--br-mid);
+  background-color: var(--color-firebrick-100);
+}
+
+.rectangle-parent1 {
+  padding: var(--padding-8xs) var(--padding-6xs);
+  z-index: 1;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.frame-child6 {
+  width: 209px;
+  height: 45px;
+  display: none;
+  position: relative;
+}
+
+.bn-cn-g1 {
+  white-space: nowrap;
+  z-index: 2;
+  font-weight: 600;
+  position: relative;
+}
+
+.bn-cn-g-wrapper {
+  padding: var(--padding-10xs) 0 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.icon-magnifying-glass1 {
+  z-index: 2;
+  width: 30px;
+  height: 29px;
+  min-height: 29px;
+  position: relative;
+}
+
+.frame-div, .frame-parent2, .rectangle-parent2 {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.rectangle-parent2 {
+  border-radius: var(--br-mid);
+  background-color: var(--color-firebrick-100);
+  padding: var(--padding-5xs) var(--padding-3xs) var(--padding-5xs) var(--padding-lg);
+  gap: var(--gap-lgi);
+  z-index: 1;
+  flex: 1;
+}
+
+.frame-div, .frame-parent2 {
+  max-width: 100%;
+}
+
+.frame-parent2 {
+  gap: var(--gap-10xl);
+  font-size: var(--font-size-xl);
+  flex: 1;
+}
+
+.frame-div {
+  gap: var(--gap-104xl);
+  width: 787px;
+}
+
+.frame-child7 {
+  background-color: var(--color-firebrick-100);
+  z-index: 1;
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.icon-phone1 {
+  z-index: 2;
+  width: 17.7px;
+  height: 38.8px;
+  position: absolute;
+  top: 4.2px;
+  left: 15px;
+}
+
+.ellipse-container {
+  width: 47px;
+  height: 47px;
+  position: relative;
+}
+
+.frame-child8 {
+  background-color: var(--color-firebrick-100);
+  z-index: 1;
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.icon-person2 {
+  cursor: pointer;
+  z-index: 2;
+  width: 22px;
+  height: 39px;
+  position: absolute;
+  top: 3.2px;
+  left: 12px;
+}
+
+.ellipse-parent1 {
+  width: 47px;
+  height: 47px;
+  position: relative;
+}
+
+.frame-child9 {
+  background-color: var(--color-firebrick-100);
+  z-index: 1;
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.icon-cart1 {
+  cursor: pointer;
+  z-index: 2;
+  width: 26px;
+  height: 38.8px;
+  position: absolute;
+  top: 5.2px;
+  left: 9px;
+}
+
+.ellipse-parent2 {
+  width: 47px;
+  height: 47px;
+  position: relative;
+}
+
+.frame-wrapper2 {
+  padding: var(--padding-12xs) 0 0;
+  flex-direction: column;
+}
+
+.frame-header, .frame-parent3, .frame-wrapper1, .frame-wrapper2 {
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.frame-parent3 {
+  gap: var(--gap-sm);
+  flex-direction: row;
+}
+
+.frame-header, .frame-wrapper1 {
+  padding: var(--padding-12xs) 0 0;
+  flex-direction: column;
+}
+
+.frame-header {
+  background-color: var(--color-red-200);
+  padding: var(--padding-8xs) var(--padding-26xl) 0 var(--padding-72xl);
+  box-sizing: border-box;
+  z-index: 99;
+  justify-content: space-between;
+  align-self: stretch;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+  flex-direction: row;
+  max-width: 100%;
+  position: sticky;
+  top: 0;
+}
+
+.frame-child10 {
+  border-radius: var(--br-3xs);
+  background-color: #b00;
+  width: 386px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  margin: 0 !important;
+}
+
+.sn-phm {
+  cursor: pointer;
+  z-index: 2;
+  font-weight: 600;
+  position: relative;
+}
+
+.product-name {
+  padding: 0 var(--padding-xl) var(--padding-xs) 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.in-thoi-tablet, .pc-mn-hnh {
+  font-weight: 600;
+  display: inline-block;
+}
+
+.in-thoi-tablet {
+  z-index: 1;
+  width: 323px;
+  height: 48px;
+  position: absolute;
+  top: -30px;
+  right: -88px;
+  margin: 0 !important;
+}
+
+.pc-mn-hnh {
+  z-index: 2;
+  flex: 1;
+  height: 49px;
+  position: relative;
+}
+
+.in-thoi-tablet-parent {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.laptop {
+  z-index: 1;
+  flex-shrink: 0;
+  width: 128px;
+  height: 48px;
+  margin-top: -16px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.frame-parent4 {
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 255px;
+  display: flex;
+}
+
+.ng-h-camera {
+  z-index: 2;
+  width: 318px;
+  height: 49px;
+  position: absolute;
+  top: -33px;
+  left: 0;
+  margin: 0 !important;
+}
+
+.gia-dng-smarthome, .m-thanh, .ng-h-camera {
+  font-weight: 600;
+  display: inline-block;
+}
+
+.gia-dng-smarthome {
+  z-index: 3;
+  flex: 1;
+  max-width: 100%;
+  height: 51px;
+  position: relative;
+}
+
+.m-thanh {
+  z-index: 4;
+  width: 179px;
+  height: 49px;
+  position: absolute;
+  bottom: -33px;
+  left: 0;
+  margin: 0 !important;
+}
+
+.accessories-label {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+  position: relative;
+}
+
+.hng-c, .thng-tin, .tivi {
+  font-weight: 600;
+  display: inline-block;
+}
+
+.hng-c {
+  z-index: 2;
+  width: 153px;
+  height: 49px;
+  position: absolute;
+  top: 94px;
+  left: 0;
+}
+
+.thng-tin, .tivi {
+  z-index: 1;
+}
+
+.thng-tin {
+  width: 176px;
+  height: 49px;
+  position: absolute;
+  top: 130px;
+  left: 0;
+}
+
+.tivi {
+  flex: 1;
+  height: 50px;
+  position: relative;
+}
+
+.tivi-wrapper {
+  padding: 0 var(--padding-9xs);
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 75px;
+  display: flex;
+}
+
+.ph-kin {
+  z-index: 2;
+  flex-shrink: 0;
+  align-self: stretch;
+  height: 49px;
+  margin-top: -21px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.frame-parent5, .thu-c- {
+  position: absolute;
+  left: 0;
+}
+
+.frame-parent5 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 160px;
+  display: flex;
+  top: 0;
+}
+
+.thu-c- {
+  z-index: 3;
+  width: 301px;
+  height: 50px;
+  font-weight: 600;
+  display: inline-block;
+  top: 63px;
+}
+
+.hng-c-parent {
+  width: 321px;
+  max-width: 100%;
+  height: 179px;
+  position: relative;
+}
+
+.laptop-label, .rectangle-parent3 {
+  box-sizing: border-box;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.rectangle-parent3 {
+  padding: var(--padding-mini) 0 var(--padding-6xs) var(--padding-3xl);
+  justify-content: flex-start;
+  align-self: stretch;
+  gap: var(--gap-mid);
+  position: relative;
+}
+
+.laptop-label {
+  padding: 0 0 var(--padding-10xl);
+  justify-content: flex-end;
+  width: 424px;
+  min-width: 424px;
+}
+
+.cate-galaxy-a35-a55-moban-icon, .dt-inoi-series-cate-icon, .iphone-15-pro-upgrade-cate-icon, .iphone-15-upgrade-cate-icon {
+  object-fit: cover;
+  flex-shrink: 0;
+  align-self: stretch;
+  width: 997px;
+  max-width: 100%;
+  min-height: 166px;
+  max-height: 100%;
+  position: relative;
+}
+
+.hssv-2024-tecno-cate-1-icon {
+  object-fit: cover;
+  flex: 1;
+  align-self: stretch;
+  max-width: 100%;
+  max-height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.hssv-2024-tecno-cate-1-wrapper {
+  padding: 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  flex-direction: column;
+  flex-shrink: 0;
+  justify-content: flex-end;
+  align-self: stretch;
+  align-items: flex-start;
+  width: 997px;
+  max-width: 100%;
+  display: flex;
+}
+
+.hpt-30-cate-thang3-icon {
+  object-fit: cover;
+  flex: 1;
+  align-self: stretch;
+  max-width: 100%;
+  max-height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.hpt-30-cate-thang3-wrapper {
+  padding: 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  flex-direction: column;
+  flex-shrink: 0;
+  justify-content: flex-end;
+  align-self: stretch;
+  align-items: flex-start;
+  width: 997px;
+  max-width: 100%;
+  display: flex;
+}
+
+.hotsale-s24-cate-icon {
+  object-fit: cover;
+  flex: 1;
+  align-self: stretch;
+  max-width: 100%;
+  max-height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.hotsale-s24-cate-wrapper {
+  padding: 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  flex-direction: column;
+  flex-shrink: 0;
+  justify-content: flex-end;
+  align-self: stretch;
+  align-items: flex-start;
+  width: 997px;
+  max-width: 100%;
+  display: flex;
+}
+
+.infinix-hot-40pro-cate-icon {
+  object-fit: cover;
+  flex: 1;
+  align-self: stretch;
+  max-width: 100%;
+  max-height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.infinix-hot-40pro-cate-wrapper {
+  padding: 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  flex-direction: column;
+  flex-shrink: 0;
+  justify-content: flex-end;
+  align-self: stretch;
+  align-items: flex-start;
+  width: 997px;
+  max-width: 100%;
+  display: flex;
+}
+
+.flip5-cate-thang3-17990-icon, .infinix-hot-40i-cate-icon {
+  object-fit: cover;
+  flex-shrink: 0;
+  align-self: stretch;
+  width: 997px;
+  max-width: 100%;
+  min-height: 166px;
+  max-height: 100%;
+  position: relative;
+}
+
+.flip5-cate-thang3-17990-icon {
+  min-height: 165px;
+}
+
+.frame-wrapper4, .iphone-15-pro-upgrade-cate-parent {
+  flex-direction: row;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  align-self: stretch;
+  display: flex;
+}
+
+.iphone-15-pro-upgrade-cate-parent {
+  debug_commit: f6aba90;
+  align-items: flex-end;
+  width: 1015px;
+  overflow-x: auto;
+}
+
+.frame-wrapper4 {
+  align-items: flex-start;
+  max-width: 100%;
+  height: 167px;
+  overflow: hidden;
+}
+
+.dt-inoi-series-sliding-icon, .oppo-reno-11f-sliding-hssv-icon, .sliding-galaxy-a35-a55-moban-icon {
+  width: 690px;
+}
+
+.dt-inoi-series-sliding-icon, .hotsale-s24-sis-mobile-icon, .infinix-hot-40-sliding-0111-icon, .iphone-15-upgrade-sliding-icon, .oppo-reno-11f-sliding-hssv-icon, .sliding-galaxy-a35-a55-moban-icon {
+  object-fit: cover;
+  align-self: stretch;
+  max-width: 100%;
+  min-height: 300px;
+  max-height: 100%;
+  position: relative;
+}
+
+.hotsale-s24-sis-mobile-icon {
+  flex: 1;
+  min-width: 484px;
+  overflow: hidden;
+}
+
+.infinix-hot-40-sliding-0111-icon, .iphone-15-upgrade-sliding-icon {
+  width: 690px;
+}
+
+.sliding-galaxy-a35-a55-moban-parent {
+  debug_commit: f6aba90;
+  flex-direction: row;
+  flex-shrink: 0;
+  justify-content: center;
+  align-items: flex-start;
+  width: 4195px;
+  display: flex;
+}
+
+.frame-wrapper5, .instance-wrapper {
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.frame-wrapper5 {
+  flex-shrink: 0;
+  justify-content: flex-start;
+  width: 690px;
+  overflow: hidden;
+}
+
+.instance-wrapper {
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  justify-content: center;
+  align-self: stretch;
+}
+
+.instance-parent {
+  align-items: flex-start;
+  gap: var(--gap-8xl);
+  flex-direction: column;
+  flex: 1;
+  min-width: 648px;
+  margin-left: -12px;
+}
+
+.frame-section, .frame-wrapper3, .instance-parent, .laptop-label-parent {
+  justify-content: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.laptop-label-parent {
+  flex-direction: row;
+  flex: 1;
+  align-items: flex-end;
+  row-gap: 20px;
+}
+
+.frame-section, .frame-wrapper3 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.frame-wrapper3 {
+  padding: 0 var(--padding-lg) 0 var(--padding-smi);
+  box-sizing: border-box;
+  flex-direction: row;
+}
+
+.frame-section {
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+  flex-direction: column;
+  gap: 44px;
+}
+
+.tng-i-h {
+  margin: 0;
+}
+
+.span {
+  text-decoration: underline;
+}
+
+.a {
+  color: inherit;
+}
+
+.gi-mua-hng-18002097-7h30-1 {
+  margin-bottom: 0;
+}
+
+.span1 {
+  text-decoration: underline;
+}
+
+.a1 {
+  color: inherit;
+}
+
+.gi-khiu-ni-18002063-8h00 {
+  margin-bottom: 0;
+}
+
+.span2 {
+  text-decoration: underline;
+}
+
+.a2 {
+  color: inherit;
+}
+
+.gi-mua-hng-18002097-7h30- {
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-13xl);
+  margin: 0;
+}
+
+.tng-i-h-container {
+  max-width: 100%;
+  height: 116px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.thng-tin-v {
+  margin: 0;
+}
+
+.mua-hng-v {
+  text-decoration: underline;
+}
+
+.mua-hng-v-thanh-ton-online2 {
+  color: inherit;
+}
+
+.mua-hng-v-thanh-ton-online1 {
+  margin-bottom: 0;
+}
+
+.mua-hng-tr {
+  text-decoration: underline;
+}
+
+.mua-hng-tr-gp-online1 {
+  color: inherit;
+}
+
+.mua-hng-tr-gp-online {
+  margin-bottom: 0;
+}
+
+.mua-hng-tr1 {
+  text-decoration: underline;
+}
+
+.mua-hng-tr-gp-bng-th-tn1 {
+  color: inherit;
+}
+
+.mua-hng-tr-gp-bng-th-tn {
+  margin-bottom: 0;
+}
+
+.chnh-sch-giao {
+  text-decoration: underline;
+}
+
+.chnh-sch-giao-hng1 {
+  color: inherit;
+}
+
+.chnh-sch-giao-hng {
+  margin-bottom: 0;
+}
+
+.tra-im-smember2 {
+  text-decoration: underline;
+}
+
+.tra-im-smember1 {
+  color: inherit;
+}
+
+.tra-im-smember {
+  margin-bottom: 0;
+}
+
+.xem-u-i {
+  text-decoration: underline;
+}
+
+.xem-u-i-smember1 {
+  color: inherit;
+}
+
+.xem-u-i-smember {
+  margin-bottom: 0;
+}
+
+.tra-thng-tin {
+  text-decoration: underline;
+}
+
+.tra-thng-tin-bo-hnh1 {
+  color: inherit;
+}
+
+.tra-thng-tin-bo-hnh {
+  margin-bottom: 0;
+}
+
+.tra-cu-ho {
+  text-decoration: underline;
+}
+
+.tra-cu-ho-n-in-t1 {
+  color: inherit;
+}
+
+.tra-cu-ho-n-in-t {
+  margin-bottom: 0;
+}
+
+.thng-tin-ho {
+  text-decoration: underline;
+}
+
+.thng-tin-ho-n-mua-hng1 {
+  color: inherit;
+}
+
+.thng-tin-ho-n-mua-hng {
+  margin-bottom: 0;
+}
+
+.trung-tm-bo {
+  text-decoration: underline;
+}
+
+.trung-tm-bo-hnh-chnh-hng1 {
+  color: inherit;
+}
+
+.trung-tm-bo-hnh-chnh-hng {
+  margin-bottom: 0;
+}
+
+.quy-nh-v {
+  text-decoration: underline;
+}
+
+.quy-nh-v-vic-sao-lu-d-li {
+  color: inherit;
+}
+
+.mua-hng-v-thanh-ton-online {
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-13xl);
+  margin: 0;
+}
+
+.thng-tin-v-container {
+  height: 349px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.shopping-info {
+  padding: var(--padding-11xs-9) 0 0;
+  box-sizing: border-box;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.blank-line, .blank-line1 {
+  margin: 0;
+}
+
+.blank-line4 {
+  text-decoration: underline;
+}
+
+.blank-line3 {
+  color: inherit;
+}
+
+.blank-line2, .dch-v-v {
+  margin: 0;
+}
+
+.khch-hng-doanh {
+  text-decoration: underline;
+}
+
+.khch-hng-doanh-nghip-b2b2 {
+  color: inherit;
+}
+
+.khch-hng-doanh-nghip-b2b1 {
+  margin-bottom: 0;
+}
+
+.u-i-thanh {
+  text-decoration: underline;
+}
+
+.u-i-thanh-ton1 {
+  color: inherit;
+}
+
+.u-i-thanh-ton {
+  margin-bottom: 0;
+}
+
+.quy-ch-hot {
+  text-decoration: underline;
+}
+
+.quy-ch-hot-ng1 {
+  color: inherit;
+}
+
+.quy-ch-hot-ng {
+  margin-bottom: 0;
+}
+
+.chnh-sch-bo {
+  text-decoration: underline;
+}
+
+.chnh-sch-bo-mt-thng-tin-c1 {
+  color: inherit;
+}
+
+.chnh-sch-bo-mt-thng-tin-c {
+  margin-bottom: 0;
+}
+
+.chnh-sch-bo1 {
+  text-decoration: underline;
+}
+
+.chnh-sch-bo-hnh1 {
+  color: inherit;
+}
+
+.chnh-sch-bo-hnh {
+  margin-bottom: 0;
+}
+
+.lin-h-hp {
+  text-decoration: underline;
+}
+
+.lin-h-hp-tc-kinh-doanh1 {
+  color: inherit;
+}
+
+.lin-h-hp-tc-kinh-doanh {
+  margin-bottom: 0;
+}
+
+.tuyn-dng2 {
+  text-decoration: underline;
+}
+
+.tuyn-dng1 {
+  color: inherit;
+}
+
+.tuyn-dng {
+  margin-bottom: 0;
+}
+
+.dch-v-bo {
+  text-decoration: underline;
+}
+
+.dch-v-bo-hnh-in-thoi1 {
+  color: inherit;
+}
+
+.dch-v-bo-hnh-in-thoi {
+  margin-bottom: 0;
+}
+
+.dch-v-bo1 {
+  text-decoration: underline;
+}
+
+.dch-v-bo-hnh-m-rng1 {
+  color: inherit;
+}
+
+.dch-v-bo-hnh-m-rng {
+  margin-bottom: 0;
+}
+
+.khch-hng-doanh-nghip-b2b {
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-13xl);
+  margin: 0;
+}
+
+.blank-line5 {
+  margin: 0;
+}
+
+.dch-v-v-container {
+  flex-shrink: 0;
+  align-self: stretch;
+  height: 319.9px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.new-year-sale, .tet-offer-i-phone {
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.new-year-sale {
+  padding: var(--padding-11xs-9) 0 0;
+  box-sizing: border-box;
+  flex-direction: column;
+  width: 438px;
+}
+
+.tet-offer-i-phone {
+  align-self: stretch;
+  gap: var(--gap-smi-5);
+  flex-direction: row;
+}
+
+.qu-tt-20241 {
+  text-decoration: underline;
+}
+
+.qu-tt-2024 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.in-thoi1 {
+  text-decoration: underline;
+}
+
+.in-thoi {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.in-thoi-iphone1 {
+  text-decoration: underline;
+}
+
+.in-thoi-iphone {
+  color: inherit;
+}
+
+.in-thoi-iphone, .node {
+  white-space: pre-wrap;
+}
+
+.qu-tt-2024-in-thoi {
+  margin: 0;
+}
+
+.in-thoi-vivo1 {
+  text-decoration: underline;
+}
+
+.in-thoi-vivo {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.in-thoi-oppo1 {
+  text-decoration: underline;
+}
+
+.in-thoi-oppo {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.in-thoi-xiaomi1 {
+  text-decoration: underline;
+}
+
+.in-thoi-xiaomi {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.in-thoi-samsung {
+  text-decoration: underline;
+}
+
+.in-thoi-samsung-galaxy {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.samsung-galaxy-a1 {
+  text-decoration: underline;
+}
+
+.samsung-galaxy-a {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.in-thoi-vivo-in-thoi-o {
+  margin: 0;
+}
+
+.laptop2 {
+  text-decoration: underline;
+}
+
+.laptop1 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.laptop-acer1 {
+  text-decoration: underline;
+}
+
+.laptop-acer {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.laptop-dell1 {
+  text-decoration: underline;
+}
+
+.laptop-dell {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.laptop-hp1 {
+  text-decoration: underline;
+}
+
+.laptop-hp {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.tivi2 {
+  text-decoration: underline;
+}
+
+.tivi1 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.tivi-samsung1 {
+  text-decoration: underline;
+}
+
+.tivi-samsung {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.tivi-sony1 {
+  text-decoration: underline;
+}
+
+.tivi-sony {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.tivi-lg1 {
+  text-decoration: underline;
+}
+
+.tivi-lg {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.tivi-tcl1 {
+  text-decoration: underline;
+}
+
+.tivi-tcl {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.laptop-laptop-acer-lapto {
+  margin: 0;
+}
+
+.nh-thng-minh1 {
+  text-decoration: underline;
+}
+
+.nh-thng-minh {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.my-ht-bi1 {
+  text-decoration: underline;
+}
+
+.my-ht-bi {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.cn-in-t1 {
+  text-decoration: underline;
+}
+
+.cn-in-t {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.gia-dng1 {
+  text-decoration: underline;
+}
+
+.gia-dng {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.ni-chin-khng {
+  text-decoration: underline;
+}
+
+.ni-chin-khng-du {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.ni-cm-in1 {
+  text-decoration: underline;
+}
+
+.ni-cm-in {
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.blank-line6, .nh-thng-minh-my-ht-bi {
+  margin: 0;
+}
+
+.qu-tt-2024-in-container {
+  flex-shrink: 0;
+  height: 232px;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.company-trading {
+  padding: var(--padding-6xs-2) 0 0;
+  box-sizing: border-box;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  min-width: 628px;
+  max-width: 100%;
+  display: flex;
+}
+
+.blank-line7, .cng-ty-tnhh {
+  margin: 0;
+}
+
+.cng-ty-tnhh-container {
+  flex: 1;
+  min-width: 407px;
+  max-width: 100%;
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+}
+
+.promotions-hub, .tet-offer {
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.tet-offer {
+  align-items: flex-start;
+  gap: var(--gap-22xl);
+  flex: 1;
+  max-width: 100%;
+  display: flex;
+}
+
+.promotions-hub {
+  padding: 0 var(--padding-27xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+  width: 1387px;
+}
+
+.free-help-desk, .info-hub, .promotions-hub {
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.free-help-desk {
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  flex-direction: column;
+  flex: 1;
+}
+
+.info-hub {
+  padding: 0 var(--padding-10xs) 0 var(--padding-smi);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+  flex-direction: row;
+  justify-content: flex-end;
+  align-self: stretch;
+}
+
+.trang-ch {
+  background-color: var(--color-gray-100);
+  letter-spacing: normal;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-end;
+  gap: 82px;
+  width: 100%;
+  line-height: normal;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (width <= 1350px) {
+  .iphone-15-pro-upgrade-cate-parent, .laptop-label {
+    flex: 1;
+  }
+
+  .laptop-label-parent, .sliding-galaxy-a35-a55-moban-parent, .tet-offer-i-phone {
+    flex-wrap: wrap;
+  }
+
+  .promotions-hub {
+    padding-left: var(--padding-4xl);
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (width <= 1125px) {
+  .instance-parent {
+    margin-left: 0;
+  }
+
+  .company-trading {
+    flex: 1;
+  }
+
+  .tet-offer {
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (width <= 800px) {
+  .frame-div {
+    gap: var(--gap-42xl);
+  }
+
+  .frame-header {
+    padding-left: var(--padding-26xl);
+    padding-right: var(--padding-3xl);
+    box-sizing: border-box;
+  }
+
+  .gia-dng-smarthome, .hng-c, .in-thoi-tablet, .laptop, .m-thanh, .ng-h-camera, .pc-mn-hnh, .ph-kin, .sn-phm, .thng-tin, .thu-c-, .tivi {
+    font-size: var(--font-size-7xl);
+  }
+
+  .hotsale-s24-sis-mobile-icon, .instance-parent, .laptop-label {
+    min-width: 100%;
+  }
+
+  .frame-section {
+    gap: var(--gap-3xl);
+  }
+
+  .cng-ty-tnhh-container, .company-trading {
+    min-width: 100%;
+  }
+
+  .tet-offer {
+    gap: var(--gap-xl);
+  }
+
+  .trang-ch {
+    gap: var(--gap-22xl);
+  }
+}
+
+@media screen and (width <= 450px) {
+  .frame-div {
+    gap: var(--gap-12xl);
+  }
+
+  .frame-header {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+
+  .cng-ty-tnhh-container, .dch-v-v-container, .gia-dng-smarthome, .hng-c, .in-thoi-tablet, .laptop, .m-thanh, .ng-h-camera, .pc-mn-hnh, .ph-kin, .qu-tt-2024-in-container, .sn-phm, .thng-tin, .thng-tin-v-container, .thu-c-, .tivi, .tng-i-h-container {
+    font-size: var(--font-size-lgi);
+  }
+
+  .trang-ch {
+    gap: var(--gap-xl);
+  }
+}
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
